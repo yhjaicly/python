@@ -1,0 +1,8 @@
+git clone git地址
+
+之后如果设置ssh输入密码
+git add .
+
+git commit -m "注释"
+
+git push origin master
